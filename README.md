@@ -22,7 +22,7 @@ This public dataset contains freely available sorted list of Internet domains.
 
 [Active Domains Graphical reports](REPORTS.md)
 
-[Dataset statistics](https://domainsproject.org/stats/)
+[Github Dataset statistics](STATS.md) vs [Subscription dataset statistics](https://domainsproject.org/stats/)
 
 [Project news](NEWS.md)
 
@@ -73,12 +73,12 @@ You can support this project by doing any combination of the following:
 - After reaching 30 million records, files were moved  to `/data`
   so repository doesn't have it's README at the very bottom.
 
-# Used by
+# Trusted by
 
 [![CloudSEK](https://raw.githubusercontent.com/tb0hdan/domains/master/logos/CloudSEK.jpg)](https://cloudsek.com)
 
 # Using dataset
-This repository empoys [Git LFS](https://git-lfs.github.com/) technology, therefore user
+This repository employs [Git LFS](https://git-lfs.github.com/) technology, therefore user
 has to use both `git lfs` and `xz` to retrieve data. Cloning procedure is as follows:
 
 ```bash
