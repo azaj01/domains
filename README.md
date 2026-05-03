@@ -22,7 +22,7 @@ This public dataset contains freely available sorted list of Internet domains.
 
 [Active Domains Graphical reports](REPORTS.md)
 
-[Dataset statistics](STATS.md)
+[Dataset statistics](https://domainsproject.org/stats/)
 
 [Project news](NEWS.md)
 
